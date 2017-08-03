@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "288775604311",
+    "firebase_url": "https://appathon-79dd9.firebaseio.com",
+    "project_id": "appathon-79dd9",
+    "storage_bucket": "appathon-79dd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288775604311:android:4dfa3e4599c0b909",
+        "android_client_info": {
+          "package_name": "com.example.teja.inroads2vitapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288775604311-0q1idssp0urb251qdb1l2romgtt924mo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.teja.inroads2vitapp",
+            "certificate_hash": "5460244cce0639c6cfd2cc94dfab1341c1f57ea6"
+          }
+        },
+        {
+          "client_id": "288775604311-doehr4rarhajjga53skg9t5so3oc4v7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmhGys4kqWyfpic0pJheRechavfq_V3e8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288775604311-doehr4rarhajjga53skg9t5so3oc4v7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
